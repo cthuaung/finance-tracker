@@ -15,7 +15,7 @@ A personal finance tracking application built with Python and PyQt6.
 
 ## Screenshots
 
-
+![Finance Tracker Screenshot](Screenshot.png)
 
 ## Requirements
 
