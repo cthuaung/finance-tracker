@@ -15,7 +15,7 @@ A personal finance tracking application built with Python and PyQt6.
 
 ## Screenshots
 
-*Add screenshots here*
+
 
 ## Requirements
 
@@ -61,3 +61,4 @@ The application uses SQLite to store data in `finance_tracker/data/finance.db`. 
 ## License
 
 [MIT License](LICENSE)
+
